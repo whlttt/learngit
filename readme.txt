@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Test the ssh key.
 Test the branch.
+Test the pull.
