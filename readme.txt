@@ -8,3 +8,4 @@ Switched to a new branch 'dev'.
 Test the branch.
 Test the pull.
 Local test the conflict.
+Test the conflict
